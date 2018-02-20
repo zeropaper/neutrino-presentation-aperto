@@ -1,0 +1,30 @@
+{
+  "name": "neutrino-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start",
+    "lint": "neutrino lint",
+    "test": "neutrino test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@neutrinojs/airbnb-base": "^8.1.1",
+    "@neutrinojs/jest": "^8.1.1",
+    "@neutrinojs/web": "^8.1.1",
+    "neutrino-middleware-styles-loader": "^0.1.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "neutrino": "^8.1.1",
+    "popper.js": "^1.12.9",
+    "veams": "^5.1.1"
+  }
+}

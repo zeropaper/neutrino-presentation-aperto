@@ -1,11 +1,19 @@
 # neutrino-presentation-aperto
-A presentation of Neutrino at Aperto
 
+## Introduction
 
+- What is Neutrino?
+  A wrapper for Webpack configuration and some tools to start projects.
+- Why use Neutrino?
+  Try to configure Webpack for advanced projects with support for JSX, SASS, testing, PWA and so on...
+  It also suggests (but does not enforces) a "standard" project scaffolding.
+  A bit like Veams.
+- Comparison with Veams?
+  It does not support static site generation out-of-the-box. But! Quantum Veams might.
 
 ## Before starting
 
-Use a recent version of nodejs (`nvm install 9`).
+Use a recent version of nodejs (`nvm install 9` - earlier versions are OK...).
 
 ## Install the 'create-project' utility
 
